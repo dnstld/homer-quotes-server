@@ -15,3 +15,9 @@ npm i express dotenv
 ```
 npm i -D typescript @types/express @types/dotenv
 ```
+
+4. Create `TypeScript Server` and compale it
+
+```
+npx tsc
+```
