@@ -9,3 +9,9 @@ npm init -y
 ```
 npm i express dotenv
 ```
+
+3. Enable `TypeScript`. And, initialize it `npx tsc --init`
+
+```
+npm i -D typescript @types/express @types/dotenv
+```
